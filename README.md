@@ -29,6 +29,6 @@ This web application displays the population of countries worldwide. Users can v
 3. **Install dependencies:**
    npm install
 
-4. **Install dependencies:**
+4. **Start the development server:**
    npm start
    The app will be running at http://localhost:5173.
